@@ -3,7 +3,7 @@ package com.example.wyscigi_jamaica_bobsled_team;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class GameController {
     @FXML
     private Label welcomeText;
 

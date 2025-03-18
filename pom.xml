@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.wyscigi_jamaica_bobsled_team/com.example.wyscigi_jamaica_bobsled_team.HelloApplication
+                                com.example.wyscigi_jamaica_bobsled_team/com.example.wyscigi_jamaica_bobsled_team.Game
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

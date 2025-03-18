@@ -1,6 +1,7 @@
 module com.example.wyscigi_jamaica_bobsled_team {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.desktop;
 
 
     opens com.example.wyscigi_jamaica_bobsled_team to javafx.fxml;
