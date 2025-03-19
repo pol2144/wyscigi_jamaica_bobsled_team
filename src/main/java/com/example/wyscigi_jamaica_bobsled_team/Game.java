@@ -17,7 +17,7 @@ public class Game extends Application {
     public static final int WIDTH = 1920;
     public static final int HEIGHT = 1080;
     public static javax.swing.Timer timer;
-    public static int timeElapsed = 0; // czas miniony od początku wyścigu
+    public static int timeElapsed = 0; // czas miniony od początku wyścigu-Xmx256M -Xms256M
     public static AnchorPane menuPane, customizePane, trackSelectPane, racePane, scorePane;
     public static Stage stage;
     public static Scene menuScene, raceScene, scoreScene, customizeScene, trackSelectScene;
